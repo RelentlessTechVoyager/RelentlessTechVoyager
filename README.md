@@ -38,10 +38,11 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RelentlessTechVoyager&show_icons=true&theme=transparent)
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RelentlessTechVoyager&show_icons=true&locale=en&layout=compact" alt="RelentlessTechVoyager" /></p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RelentlessTechVoyager&show_icons=true&theme=dark)
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RelentlessTechVoyager&show_icons=true&theme=dark&locale=en&layout=compact" alt="RelentlessTechVoyager" />
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RelentlessTechVoyager&" alt="RelentlessTechVoyager" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RelentlessTechVoyager&theme=dark&" alt="RelentlessTechVoyager" /></p>
 
 <h2 align="center">📲Connect with me 🤝:</h2>
 

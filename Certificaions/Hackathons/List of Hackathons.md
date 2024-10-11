@@ -3,6 +3,8 @@
 - MSME Hackathon 3.0
 - MSME Hackathon 4.0
 - Accenture Innovation Challenge (AIC'24)
+- Samsung Solve for Tomorrow-2023
+- Google Girl Hackathon-2024
 
 ## ⭐ International Level Hackathons-
 - Hackbrew Online 2day Hackathon - 2024

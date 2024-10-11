@@ -5,7 +5,8 @@
 - Accenture Innovation Challenge (AIC'24)
 
 ## ⭐ International Level Hackathons-
-- Hackbrew Online 2day Hackathon
+- Hackbrew Online 2day Hackathon - 2024
 
 ## ⭐ Regional Level Hackathons-
+- Web Development Hackathon'22 (SDC)
 - Charge'24

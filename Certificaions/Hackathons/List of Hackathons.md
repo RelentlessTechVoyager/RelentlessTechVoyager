@@ -12,3 +12,4 @@
 ## ⭐ Regional Level Hackathons-
 - Web Development Hackathon'22 (SDC)
 - Charge'24
+- Guvi Learnathon-2024 (Women)

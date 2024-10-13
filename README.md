@@ -1,10 +1,16 @@
 # K VENKATA SAI HARINI
-<h1 align="center">Hey there👋, I'm Harini
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
-<h3 align="center">A _tech_Voyager!</h3>
-<h4>Bio</h4> I'm a Tech Enthusiast. I am passionate about web development, open source, and all things related to technology. I enjoy participating in hackathons, tech events and love involving in Tech clubs,societies and communities.I'm a keen learner and big aspire, who enjoys learning anything new around! Currently exploring and living Engineering to it's fullest. Having said that, I end up multi-tasking which means I'm decent enough to manage myself in the given time. Apart from engineering, tech-societies and tech-clubs, I'm an Avid_Reader and I love fine arts(Dance), keyboard and music!!
 
-======================================================
+<div align="center">
+<h2>Hey there👋, I'm Harini <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"></h2>
+<h3>A _tech_Voyager!</h3> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc2Y2wzbzV4azFnZnBlbWY0YTJhMmRxODJ3NHR2aWNhaW9hbWVyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VBGoqEIX0TWX5Kl0i0/giphy.gif" alt="potter ssays Hi" height="200px">
+</div>
+
+<details>
+  <summary><h2>Bio</h2></summary> 
+  <p align="justify">I'm a Tech Enthusiast. I am passionate about web development, open source, and all things related to technology. I enjoy participating in hackathons, tech events and love involving in Tech clubs,societies and communities.I'm a keen learner and big aspire, who enjoys learning anything new around! Currently exploring and living Engineering to it's fullest. Having said that, I end up multi-tasking which means I'm decent enough to manage myself in the given time. Apart from engineering, tech-societies and tech-clubs, I'm an Avid_Reader and I love fine arts(Dance), keyboard and music!!
+  </p></details>
+
 ## 🚀 About Me
 -  📜 I’m currently pursing B.Tech- **CSE with Specialization in AI&ML**
 

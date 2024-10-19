@@ -61,8 +61,8 @@
 <a href="https://www.kaggle.com/infiniteexplorer" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="infinite_explorer" height="30" width="40" /></a>
 <a href="http://medium.com/@RelentlessTechVoyage" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="tech_voyager"height="30" width="40" /></a>
 </p>
-<div align="center">
+<!-- <div align="center">
   
 ![Visitor Count](https://profile-counter.glitch.me/RelentlessTechVoyager/count.svg)
 
-</div>
+</div> -->

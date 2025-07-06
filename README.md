@@ -7,7 +7,10 @@
 </div>
 
 <details>
-  <summary><h2>Bio</h2></summary> 
+  <summary>
+    <h1>Bio </h1>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhibnZ2YWZzdXJkb2V0MTFtYTFjbmNqd3h6a21ucHRrYnF6N2R2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w1zeVDr2HDd2otR8gE/giphy.gif" alt="GIF" height="10px" width='45'>
+  </summary> 
   <p align="justify">I'm an Analytics Enthusiast. I am passionate about analytics and open source. I love reading books and blogs related to personal branding, investments, Finance, trading, business and personal development. I enjoy participating in hackathons, tech events and love involving in Tech & Non-tech clubs, societies and communities. I'm an ambitious and curious learner, who enjoys learning new things across domains! Passionate about translating insights into actionable strategies through data-driven decisions. As a community enthusiast, I thrive on building professional networks and leading inclusive community engagement initiatives.
   </p></details>
 
@@ -57,7 +60,9 @@
 ======================================================
 
 <details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Stats and Activity</h2>
+   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhibnZ2YWZzdXJkb2V0MTFtYTFjbmNqd3h6a21ucHRrYnF6N2R2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pm9uJ1OHELY5WEMx4M/giphy.gif" alt="GIF" height="10px" width='30'>
+  </summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RelentlessTechVoyager&show_icons=true&theme=dark&count_private=true&hide_rank=false" alt="GitHub Stats" />

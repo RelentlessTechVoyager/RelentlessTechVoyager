@@ -8,23 +8,23 @@
 
 <details>
   <summary><h2>Bio</h2></summary> 
-  <p align="justify">I'm a Tech Enthusiast. I am passionate about web development, open source, and all things related to technology. I enjoy participating in hackathons, tech events and love involving in Tech clubs,societies and communities.I'm a keen learner and big aspire, who enjoys learning anything new around! Currently exploring and living Engineering to it's fullest. Having said that, I end up multi-tasking which means I'm decent enough to manage myself in the given time. Apart from engineering, tech-societies and tech-clubs, I'm an Avid_Reader and I love fine arts(Dance), keyboard and music!!
+  <p align="justify">I'm an Analytics Enthusiast. I am passionate about analytics and open source. I love reading books and blogs related to personal branding, investments, Finance, trading, business and personal development. I enjoy participating in hackathons, tech events and love involving in Tech & Non-tech clubs, societies and communities. I'm an ambitious and curious learner, who enjoys learning new things across domains! Passionate about translating insights into actionable strategies through data-driven decisions. As a community enthusiast, I thrive on building professional networks and leading inclusive community engagement initiatives.
   </p></details>
 
 ## 🚀 About Me
 -  📜 I’m currently pursing B.Tech- **CSE with Specialization in AI&ML**
 
-- 🔭 My Learnings: **Data science, ML, DL, GenAI, Robotics, Business Analytics**
+- 🔭 My Learnings: **Data Science,  Business Analytics, Data Analytics, ML, DL, GenAI, Robotics**
 
-- 🤝 I’m looking to collaborate on **projects in the field of Machine Learning, DataScience, Business Anlytics or anything**
+- 🤝 I’m looking to collaborate on **projects in the field of Analytics**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning**
+- 💬 Ask me about **Data**
   
 - 👨‍💻 All of my projects are available at: **kvsHarini.me**
 
-- ⚡ Fun fact about me: *I sing while coding</>*
+- ⚡ Fun fact about me: *I sing while doing pretty much anything*
 
-- 📝 I write blogs in: **https://medium.com/@RelentlessTechVoyage**
+- 📝 I write blogs in: **https://medium.com/@_ini_Realm**
 
 - 📫 How to reach me **kvsharini04@gmail.com**
 
@@ -32,7 +32,7 @@
 
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
 <br> 
 
 <details> 
